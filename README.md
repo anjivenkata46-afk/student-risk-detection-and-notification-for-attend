@@ -1,2 +1,2 @@
-# student-risk-detection-and-notification-for-attend
-it sends notifications to students who have risk of attendance . it is useful to the colleges
+# student-risk-detection-and-notification-for-attendence
+system designed to help colleges identify students who are at risk due to low attendance and automatically notify them in time. In many colleges, students lose attendance unknowingly and face issues like exam ineligibility or academic warnings. Our solution automates this entire process and reduces manual work for faculty and administration.
